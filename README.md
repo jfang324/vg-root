@@ -6,7 +6,7 @@ This is the root directory of the [ValoGraphs](https://valographs.com) project, 
 
 -   [vg-frontend](https://github.com/jfang324/vg-frontend) - Next.js + shadcn/ui based user interface for ValoGraphs
 -   [vg-backend](https://github.com/jfang324/vg-backend) - NestJS based REST API for ValoGraphs
--   [vg-deploy](https://github.com/jfang324/vg-deploy) - Bash scripts for deploying ValoGraphs on a fresh virtual machine
+-   [vg-deploy](https://github.com/jfang324/vg-deploy) - Bash scripts for provisioning and deploying ValoGraphs on a fresh VMmachine
 
 ## Getting Started
 
