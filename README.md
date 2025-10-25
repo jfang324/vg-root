@@ -6,7 +6,7 @@ This is the root directory of the [ValoGraphs](https://valographs.com) project, 
 
 -   [vg-frontend](https://github.com/jfang324/vg-frontend) - Next.js + shadcn/ui based user interface for ValoGraphs
 -   [vg-backend](https://github.com/jfang324/vg-backend) - NestJS based REST API for ValoGraphs
--   [vg-deploy](https://github.com/jfang324/vg-deploy) - Bash scripts for provisioning and deploying ValoGraphs on a fresh VMmachine
+-   [vg-deploy](https://github.com/jfang324/vg-deploy) - Bash scripts for provisioning and deploying ValoGraphs on a fresh virtual machine
 
 ## Getting Started
 
@@ -54,6 +54,20 @@ npm run dev
 ```
 
 Now if you've followed the README instructions for setting up the `.env` files for each component, you should have the entire project running locally.
+
+## Screenshots
+
+<img width="75%" alt="dashboard" src="https://github.com/user-attachments/assets/1e0ea2d2-668b-4126-b14e-66ed283d13d8" /> <br />
+*Dashboard/Homepage*
+
+<img width="75%" alt="profile" src="https://github.com/user-attachments/assets/56f73c00-1037-4a98-a736-9a33d8abb084" /> <br />
+*Profile Page*
+
+<img width="75%" alt="match-summary" src="https://github.com/user-attachments/assets/7176754e-df9a-4f11-848c-1447932dc4f4" /> <br />
+*Match Summary*
+
+<img height="500px" alt="mobile-profile" src="https://github.com/user-attachments/assets/9e78eee4-a376-4a4c-aaa4-5692d31634ef"/> <br />
+*Mobile Profile*
 
 ## Tools & Technologies
 
